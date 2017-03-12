@@ -11,8 +11,6 @@ __version__ = ""
     A program that create our Gui and map.
     require:
         *python 2.7
-
-    :copyright: (c) 2015 by Roboton Programing Team 
 """
 
 # importing libraries
