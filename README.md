@@ -10,4 +10,8 @@ communication to control the robot.
 * [python 2.7](https://www.python.org/downloads/)
 * [pyserial 2.7 library](https://pypi.python.org/pypi/pyserial/2.7)
 * [pygame 1.9.1 library](http://www.pygame.org/download.shtml)
-* [arduino](https://www.arduino.cc/en/main/software) 
+* [arduino](https://www.arduino.cc/en/main/software)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
