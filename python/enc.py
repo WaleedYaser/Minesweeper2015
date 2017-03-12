@@ -17,11 +17,6 @@ __version__ = ""
     require:
         *python 2.7
         *pyserial 2.7 library
-    :copyright: (c) 2015 by Roboton Programing Team
-    Dalia Diab
-    Mohab Adel
-    Walid Yasir <waleedyaser95@gmail.com>
-    Yasmin Elnezamy
 """
 
 # importing libraries

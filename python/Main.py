@@ -16,11 +16,6 @@ __version__ = ""
         *joystick.py
         *encoder.py
         *gui.py
-    :copyright: (c) 2015 by Roboton Programing Team 
-    Dalia Diab
-    Mohab Adel
-    Walid Yasir <waleedyaser95@gmail.com>
-    Yasmin Elnezamy
 """
 
 # importing libraries

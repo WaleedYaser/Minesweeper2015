@@ -13,10 +13,6 @@ __version__ = ""
         *python 2.7
 
     :copyright: (c) 2015 by Roboton Programing Team 
-    Dalia Diab
-    Mohab Adel
-    Walid Yasir <waleedyaser95@gmail.com>
-    Yasmin Ali
 """
 
 # importing libraries
